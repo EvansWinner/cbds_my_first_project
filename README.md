@@ -1,4 +1,4 @@
-# This is the README file for my_first_project
+# This is the README file for cbds_my_first_project
 The folders in this project are: 
 
 * _data_ - is the folder where you will put all the data you have collected or been \
